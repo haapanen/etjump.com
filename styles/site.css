@@ -337,6 +337,10 @@ footer .button {
     padding: 20px;
 }
 
+.logo {
+    width: 300px;
+}
+
 /* Responsiveness */
 
 @media (min-width: 600px) {
